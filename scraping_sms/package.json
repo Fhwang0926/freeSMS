@@ -1,0 +1,19 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "sns scraping agent",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chrome-launcher": "^0.15.0",
+    "delay": "^5.0.0",
+    "process": "^0.11.10",
+    "puppeteer": "^13.1.0",
+    "puppeteer-core": "^13.1.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-adblocker": "^2.12.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "xvfb": "^0.4.0"
+  }
+}
